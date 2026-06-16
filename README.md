@@ -1,3 +1,4 @@
+
 <!-- you are welcome to steal this, if you want  -->
 
 ![](https://github.com/user-attachments/assets/d45462e0-d5bb-4df8-8cb0-2aebf6201b3a)
@@ -86,5 +87,7 @@
 <p align="center"> 
  
 ![](https://github.com/user-attachments/assets/bf83fd63-d661-45f6-942e-8738ba2264f2)
+
+![](https://komarev.com/ghpvc/?vanderker&style=flat-square)
 
 ###### <p align="center"> none of the pictures used in this readme are mine, credits to the creators.
