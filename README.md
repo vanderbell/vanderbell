@@ -10,9 +10,9 @@
 
 
 ### <p align="center"> **he** ノ **they**  ㅤ  ♯ ㅤㅤ*esp/eng*,  isfp-t </p>
-#### <p align="center"> **[spotify](https://open.spotify.com/user/31i7vclqadwhm65lvqzjuatyc3iq?si=4aedffdbae14461b)ㅤ ⋮ ㅤ[discord](https://discord.com/users/755174399304269835)** </p>
+#### <p align="center"> **[spotify](https://open.spotify.com/user/31i7vclqadwhm65lvqzjuatyc3iq?si=4aedffdbae14461b)ㅤ ⋮ ㅤ[discord](https://discord.com/users/755174399304269835)ㅤ ⋮ ㅤ[strawpage](https://vanbell.straw.page/)**
 
-###### <p align="center"> read these 
+
 
  
 <sup> <p align="center">  [personal](https://github.com/vanderker#--before%E3%85%A4%E3%85%A4%E3%85%A4-you-%E3%85%A4%E3%85%A4%E3%85%A4interact-)ㅤㅤ⤶ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⤷ㅤㅤ [in-game](https://github.com/vanderker#-in-game) </p> </sup>
