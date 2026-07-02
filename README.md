@@ -8,10 +8,12 @@
   <img src="https://github.com/user-attachments/assets/c39e001c-5333-44b5-a6ab-d230b6bbe2f0" alt="Description" style="border: none; display: block; margin: 0; width="512" height="301"">
 </p>
 <p align="center">
-  <a href="https://vanderbellcanon.straw.page/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/46b1077b-4dc2-48d4-bef0-728dd939f96f" alt="Description" width="90">
+  <a href="https://vanderbelly.carrd.co/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/fbf766f5-7cb4-4c14-b575-a710a3ebaaeb" alt="Description" width="120">
   </a>
 </p>
+
+
 
 <br>
 <br>
