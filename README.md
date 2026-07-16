@@ -266,7 +266,7 @@
 <br>
 <br>
 
-${{\color{#8a221a}{\textsf{Words Are Such Gross Machinery.}}}}$
+<p align=center> ${{\color{#000000}{\textsf{Words Are Such Gross Machinery.}}}}$ </p>
 
 
 
