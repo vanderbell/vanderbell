@@ -266,6 +266,9 @@
 <br>
 <br>
 
-<p align=center> Words Are Such Gross Machinery </p>
+${{\color{#8a221a}{\textsf{Words Are Such Gross Machinery.}}}}$
+
+
+
 
 ![](https://hit.yhype.me/github/profile?account_id=107293636)
