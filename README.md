@@ -3,7 +3,7 @@
 
 <p align="center">
  <a href="https://youtu.be/T52nce9yGQI/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/8fc53e17-be3a-409c-a738-53fd49d917ad" alt="Description" style="border: none; display: block; margin: 0; width="630" height="301"">
+  <img src="https://github.com/user-attachments/assets/caa56a46-05b5-45ab-8873-715ff844e711" alt="Description" style="border: none; display: block; margin: 0; width="630" height="301"">
 </p>
 
 
