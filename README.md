@@ -1,5 +1,5 @@
 <br>
-<p align="center"> ${ \space \space \color{#36505d} above \space  all \space \space \color{#875b7e} \space things \color{#875b7e} \space \space  boy, \space \space \space be \color{#cdaaa9} \space \space a \space \space man.   {}}$
+<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#875b7e} \space really \color{#875b7e} \space \space  wish \space \space \space these \color{#cdaaa9} \space \space snakes \space were \space \color{#b9decd} \space your \space arms    {}}$
 
  <br>
 <br>
@@ -9,10 +9,11 @@
  <a href="https://youtu.be/T52nce9yGQI/" target="_blank">
   <img src="https://github.com/user-attachments/assets/caa56a46-05b5-45ab-8873-715ff844e711" alt="Description" style="border: none; display: block; margin: 0; width="630" height="301"">
 </p>
+<br>
+<br>
 
-
-
-
+<p align="center"> ${ \space \space \color{#bed9cb} i, \space  \space  i \space \space \color{#cdaaac} \space really \space \space  wish \space \space \space you'd \color{#875b7a} \space \space make \space up \space \color{#34515d} \space your \space mind.    {}}$
+ 
 <br>
 <br>
 
