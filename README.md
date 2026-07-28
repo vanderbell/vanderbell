@@ -1,5 +1,7 @@
 <br>
-<br>
+<p align="center"> ${ \space \space \color{#36505d} above \space  all \space \space \color{#875b7e} \space things \color{#875b7e} \space \space  boy, \space \space \space be \color{#cdaaa9} \space \space a \space \space man.   {}}$
+
+ <br>
 <br>
 <br>
 
@@ -14,8 +16,9 @@
 <br>
 <br>
 
-<p align="center"><a href="https://vanderlismo.carrd.co/" target="_blank"><img src="https://github.com/user-attachments/assets/d0f36407-c0f1-4c2e-94b7-e3267612b170" width="135" style="margin-right: 10px;"></a><a href="https://vanderbell.atabook.org/" target="_blank"><img src="https://github.com/user-attachments/assets/6a8cc4f5-4194-4432-94b9-bf8cd33da903" alt="Link 2" width="135"></a></p>
-
+<p align="center">
+ ${ \color{#374d5a} ꒰ {}}$ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#885880} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#885880} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ${ \color{#374d5a} ꒱  {}}$
+</p>
 
 <br>
 <br>
