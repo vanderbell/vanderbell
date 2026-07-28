@@ -1,5 +1,5 @@
 <br>
-<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#5b7c85} \space really \color{#85aca9} \space \space  wish \space \space \space these \color{#a7cdc1} \space \space snakes \space were \space \color{#b9decd} \space your \space arms    {}}$
+<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#5b7c85} \space really \color{#85aca9} \space \space  wish \space \space \space these \color{#a7cdc1} \space \space snakes \space \space were \space \color{#b9decd} \space your \space arms    {}}$
 
  <br>
 <br>
