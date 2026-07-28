@@ -274,7 +274,7 @@
 <br>
 <br>
 
-<p align=center> ${{\color{#000000}{\textsf{Words Are Such Gross Machinery.}}}}$ </p>
+<p align=center> ${{\color{#000000}{\textsf{MY ㅤGIFTㅤ TOㅤ YOUㅤㅤ―ㅤㅤ KORN}}}}$ </p>
 
 
 
