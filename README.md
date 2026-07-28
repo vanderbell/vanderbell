@@ -1,5 +1,5 @@
 <br>
-<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#875b7e} \space really \color{#875b7e} \space \space  wish \space \space \space these \color{#cdaaa9} \space \space snakes \space were \space \color{#b9decd} \space your \space arms    {}}$
+<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#5b7c85} \space really \color{#85aca9} \space \space  wish \space \space \space these \color{#a7cdc1} \space \space snakes \space were \space \color{#b9decd} \space your \space arms    {}}$
 
  <br>
 <br>
@@ -12,13 +12,13 @@
 <br>
 <br>
 
-<p align="center"> ${ \space \space \color{#bed9cb} i, \space  \space  i \space \space \color{#cdaaac} \space really \space \space  wish \space \space \space you'd \color{#875b7a} \space \space make \space up \space \color{#34515d} \space your \space mind.    {}}$
+<p align="center"> ${ \space \space \color{#b9ddcd} i, \space  \space  i \space \space \color{#96bcb5} \space really \space \space  wish \space \space \space you'd \color{#5b7c85} \space \space make \space up \space \color{#36505d} \space your \space mind.    {}}$
  
 <br>
 <br>
 
 <p align="center">
- ${ \color{#374d5a} ꒰ {}}$ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#885880} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#885880} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ${ \color{#374d5a} ꒱  {}}$
+ ${ \color{#374d5a} ꒰ {}}$ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ${ \color{#374d5a} ꒱  {}}$
 </p>
 
 <br>
