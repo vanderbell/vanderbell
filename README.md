@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
- ${ \color{#374d5a} ꒰ {}}$ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ${ \color{#374d5a} ꒱  {}}$
+ ${ \color{#374d5a} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a7cdc1} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ㅤㅤ ${ \color{#85aca9} – {}}$ㅤㅤ <a href="https://moist.carrd.co/">alt</a>ㅤㅤ ${ \color{#374d5a} ꒱  {}}$
 </p>
 
 <br>
