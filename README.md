@@ -1,29 +1,27 @@
 <br>
-<br>
-<br>
-<p align="left"> ${ \space \space \color{#600404} DO \space  \space  YOU \space \space \color{#760607} \space REALLY \color{#8c090b} \space \space  THINK \space \space \space THAT \color{#a30d0f} \space \space LOVE \space \space IS \space \space GONNA \space \color{#d3141a} \space SAVE \space \space THE \space \space WORLD?    {}}$
+<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#5b7c85} \space really \color{#85aca9} \space \space  wish \space \space \space these \color{#a7cdc1} \space \space snakes \space \space were \space \color{#b9decd} \space your \space arms    {}}$
 
  <br>
-  <br>
-
-<p align="center">
- <a href="https://youtu.be/T52nce9yGQI/" target="_blank"> <img src="https://media.discordapp.net/attachments/1417622891213623496/1539404085911093288/279520ad37c97e127aa4192917c156ea_2.gif?ex=6a863146&is=6a84dfc6&hm=11da7cea56d4c6de6eb315b1b866d804899a308b6c0eb90373978591a298c8bc&=&width=320&height=205" alt="Description" style="border: none; display: block; margin: 0; width="780" height="400"">
-  </a>
-</p>
-</p>
+<br>
 <br>
 
-<p align="right"> ${ \space \space \color{#d3141a} WELL, \space  \space  I \space \space \color{#a30d0f} \space DONT \space \space  THINK \space \space \space SO. \color{#8c090b} \space \space I \space \space JUST \space \space DONT \space \color{#760607} \space THINK \space SO.    {}}$
+<p align="center">
+ <a href="https://youtu.be/T52nce9yGQI/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/caa56a46-05b5-45ab-8873-715ff844e711" alt="Description" style="border: none; display: block; margin: 0; width="630" height="301"">
+</p>
+<br>
+<br>
+
+<p align="center"> ${ \space \space \color{#b9ddcd} i, \space  \space  i \space \space \color{#96bcb5} \space really \space \space  wish \space \space \space you'd \color{#5b7c85} \space \space make \space up \space \color{#36505d} \space your \space mind.    {}}$
  
 <br>
 <br>
-<br>
 
 <p align="center">
- ${ \color{#600404} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a30d0f} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a>ㅤㅤ ${ \color{#600404} ꒱  {}}$
+ ${ \color{#374d5a} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a7cdc1} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ㅤㅤ ${ \color{#85aca9} – {}}$ㅤㅤ <a href="https://github.com/penguin0z">alt</a>ㅤㅤ ${ \color{#374d5a} ꒱  {}}$
 </p>
-<br>
-<br>
+
+
 
 
 
