@@ -1,26 +1,14 @@
 <br>
-<p align="center"> ${ \space \space \color{#36505d} i, \space  \space  i \space \space \color{#5b7c85} \space really \color{#85aca9} \space \space  wish \space \space \space these \color{#a7cdc1} \space \space snakes \space \space were \space \color{#b9decd} \space your \space arms    {}}$
-
- <br>
-<br>
 <br>
 
-<p align="center">
- <a href="https://youtu.be/T52nce9yGQI/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/caa56a46-05b5-45ab-8873-715ff844e711" alt="Description" style="border: none; display: block; margin: 0; width="630" height="301"">
-</p>
-<br>
-<br>
-
-<p align="center"> ${ \space \space \color{#b9ddcd} i, \space  \space  i \space \space \color{#96bcb5} \space really \space \space  wish \space \space \space you'd \color{#5b7c85} \space \space make \space up \space \color{#36505d} \space your \space mind.    {}}$
+<p align="center"> <img src="https://github.com/user-attachments/assets/851f778e-ba60-4909-adc4-1560c0606f24" height="120">
  
 <br>
 <br>
 
 <p align="center">
- ${ \color{#374d5a} ꒰ {}}$ㅤㅤ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ${ \color{#85aca9} – {}}$ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ ${ \color{#a7cdc1} – {}}$ ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> ㅤㅤ ${ \color{#85aca9} – {}}$ㅤㅤ <a href="https://github.com/penguin0z">alt</a>ㅤㅤ ${ \color{#374d5a} ꒱  {}}$
+ <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ  ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> </a>ㅤ
 </p>
-
 
 
 
