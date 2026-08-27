@@ -1,8 +1,9 @@
 <br>
 <br>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/851f778e-ba60-4909-adc4-1560c0606f24" height="120">
- 
+
+<p align="center"> <img src="https://github.com/user-attachments/assets/f67f31f3-5d9b-43d1-9e28-4d26c5b2943b" height="250">
+
 <br>
 <br>
 
@@ -10,11 +11,9 @@
  <a href="https://vanderlismo.carrd.co/">  carrd</a>ㅤㅤ ㅤㅤ<a href= "https://pronouns.cc/@vanderbell">prns.cc</a>ㅤㅤ  ㅤㅤ<a href= "https://vanderbell.atabook.org/">ata</a> </a>ㅤ
 </p>
 
-
-
-
 <br>
 
+ <p align="center"> <img src="https://github.com/user-attachments/assets/851f778e-ba60-4909-adc4-1560c0606f24" height="80">
 <br>
 <br>
 <br>
