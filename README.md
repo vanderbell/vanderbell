@@ -3,7 +3,7 @@
 
    $\color{#821b1b}{\texttt{♠}}$ </br>
    $\color{#821b1b}{\texttt{VANㅤ⸝ㅤDUTCH}}$ </br>
-he - they  ㅤ 、  ㅤesp + eng </br>
+<sup>he - they  ㅤ 、  ㅤesp + eng </br>
 
 
 
@@ -11,10 +11,10 @@ he - they  ㅤ 、  ㅤesp + eng </br>
 
  <img src="https://github.com/user-attachments/assets/d1ae4da2-7da2-4bf5-85f9-8fe156fe7bb5" height="265">
 
-$\color{#821b1b}{\text{“ WHO AMONGST YOU... ㅤIS WITH ME... ㅤ }}$</br>$\color{#821b1b}{\text{ AND WHO, ㅤIS BETRAYING ME? ”}}$
+ $\color{#821b1b}{\text{“ WHO AMONGST YOU... ㅤIS WITH ME... ㅤ }}$</br>$\color{#821b1b}{\text{ AND WHO, ㅤIS BETRAYING ME? ”}}$
 <details>
 
-<summary> $\color{#821b1b}{\text{pt info}}$</summary>
+<summary> <sup> $\color{#821b1b}{\text{pt info}}$</summary>
 </br>
 C+H is okay, unless stated otherwise or im with friends </br>
 </br>
