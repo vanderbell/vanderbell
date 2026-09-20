@@ -16,11 +16,11 @@ $\color{#821b1b}{\text{“ WHO AMONGST YOU... ㅤIS WITH ME... ㅤ }}$</br>$\col
 
 <summary> $\color{#821b1b}{\text{pt info}}$</summary>
 </br>
-unless i am with a friend, i am most likely off-tab, please use </br>
-whispers to interact, otherwise i might not see you.</br>
+C+H is okay, unless stated otherwise or im with friends </br>
 </br>
-avoid long interactions if im with friends, </br>
-or keep in mind that i will take my time to answer
+i am most likely off-tab, please use </br>
+whispers to interact, otherwise i might not see you.</br>
+
 
 </details>
  
