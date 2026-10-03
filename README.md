@@ -7,7 +7,7 @@
 
 
 
- $\color{#821b1b}{\text{꒰}}$ㅤㅤ<a href="https://rimtempest.carrd.co/"><img src="https://img.shields.io/badge/CARRD-821b1b?style=flat-square&link=https%3A%2F%2Frimtempest.carrd.co%2F"></a><a href="https://pronouns.cc/vanderbell/"><img src="https://img.shields.io/badge/PRNS.CC-821b1b?style=flat-square&link=https%3A%2F%2Fpronouns.cc%2F%40vanderbell"></a><a href="https://vanderbell.atabook.org/"><img src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F"></a>ㅤㅤ $\color{#821b1b}{\text{꒱}}$
+ $\color{#821b1b}{\text{꒰}}$ㅤㅤ<a href="https://rentry.co/KEEPFAITH"><img src="https://img.shields.io/badge/RENTRY-821b1b?style=flat-square&link=https%3A%2F%2Frentry.co%2FKEEPFAITH"></a><a href="https://pronouns.cc/vanderbell/"><img src="https://img.shields.io/badge/PRNS.CC-821b1b?style=flat-square&link=https%3A%2F%2Fpronouns.cc%2F%40vanderbell"></a><a href="https://vanderbell.atabook.org/"><img src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F"></a>ㅤㅤ $\color{#821b1b}{\text{꒱}}$
 
  <img src="https://github.com/user-attachments/assets/d1ae4da2-7da2-4bf5-85f9-8fe156fe7bb5" height="265">
 
