@@ -26,7 +26,12 @@ whispers to interact, otherwise i might not see you.</br>
  
  <img src="https://github.com/user-attachments/assets/1e344b21-708e-43f8-b106-c82266f6cf66" height="70">
 
+ㅤ
+ㅤ
 
+<img src="https://github.com/user-attachments/assets/10842da6-6783-4a81-ba4a-1b545090b114" height="350">
+
+certified doe boyfriend since like..... today
 
 <br>
 <br>
