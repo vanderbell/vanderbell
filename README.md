@@ -29,7 +29,12 @@ whispers to interact, otherwise i might not see you.</br>
 ㅤ
 ㅤ
 
-<img src="https://github.com/user-attachments/assets/10842da6-6783-4a81-ba4a-1b545090b114" height="350">
+<img src="https://github.com/user-attachments/assets/e17a0f96-99b1-4589-8b30-b864f2bf28e4" height="350"> 
+
+<sup> thank you finn for this work of art
+
+
+
 
 certified doe boyfriend since like..... today
 
