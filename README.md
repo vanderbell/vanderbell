@@ -29,7 +29,7 @@ whispers to interact, otherwise i might not see you.</br>
 ㅤ
 ㅤ
 
-<img src="https://github.com/user-attachments/assets/e17a0f96-99b1-4589-8b30-b864f2bf28e4" height="350"> 
+<img src="https://github.com/user-attachments/assets/e17a0f96-99b1-4589-8b30-b864f2bf28e4" height="600"> </a> <img src="https://file.garden/ar8aKenXG3rNvzBN/desde.png" height="100">
 
 <sup> thank you finn for this work of art
 
