@@ -26,17 +26,20 @@ whispers to interact, otherwise i might not see you.</br>
  
  <img src="https://github.com/user-attachments/assets/1e344b21-708e-43f8-b106-c82266f6cf66" height="70">
 
-ㅤ
-ㅤ
+ㅤㅤ
 
-<img src="https://github.com/user-attachments/assets/e17a0f96-99b1-4589-8b30-b864f2bf28e4" height="600"> </a> <img src="https://file.garden/ar8aKenXG3rNvzBN/desde.png" height="100">
+ㅤcertified doe boyfriend since like..... today
+
+ <img src="https://file.garden/ar8aKenXG3rNvzBN/desde.png" height="150"> </a>
+ 
+<img src="https://github.com/user-attachments/assets/e17a0f96-99b1-4589-8b30-b864f2bf28e4" height="600">
 
 <sup> thank you finn for this work of art
 
 
 
 
-certified doe boyfriend since like..... today
+
 
 <br>
 <br>
