@@ -7,7 +7,7 @@
 
 
 
- $\color{#821b1b}{\text{꒰}}$ㅤㅤ<a href="https://saturdaynightwrist.neocities.org/"><img src="https://img.shields.io/badge/WEBSITE-821b1b?style=flat-square"></a><a href="https://vanderbell.atabook.org/"><img src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F"></a>ㅤㅤ $\color{#821b1b}{\text{꒱}}$
+ $\color{#821b1b}{\text{꒰}}$ㅤㅤ<a href="https://saturdaynightwrist.neocities.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WEBSITE-821b1b?style=flat-square"></a><a href="https://vanderbell.atabook.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ATABOOK-821b1b?style=flat-square&link=https%3A%2F%2Fvanderbell.atabook.org%2F"></a>ㅤㅤ $\color{#821b1b}{\text{꒱}}$
 
  <img src="https://github.com/user-attachments/assets/d1ae4da2-7da2-4bf5-85f9-8fe156fe7bb5" height="265">
 
