@@ -1,5 +1,5 @@
 <div align="center">
-<img align="left" src="https://file.garden/ar8aKenXG3rNvzBN/simon/Untitled278_20261111163939%20(1).png" height="500">
+<img align="left" src="https://file.garden/ar8aKenXG3rNvzBN/simon/Untitled278_20261111163939%20(1).png" height="470">
 <img src="https://file.garden/ar8aKenXG3rNvzBN/simon/div1.png" height="60">
 
 <br>
